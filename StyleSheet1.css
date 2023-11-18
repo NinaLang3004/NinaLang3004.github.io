@@ -1,0 +1,30 @@
+﻿body {
+    background-color: ButtonShadow;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+img {
+    width: 50%;
+    height: 50%;
+    float:right;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-right:0px;
+    margin-right:0px;
+}
+
+.Introduction{
+font-size: 20px;
+font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    padding-left:20px;
+padding-top:20px;
+  
+    
+    
+}
