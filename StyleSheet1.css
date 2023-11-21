@@ -14,20 +14,23 @@ p{
     text-align: center;
 
 }
-img {
-    width: 50%;
-    height: 50%;
+img{
+    width: 40%;
+    height:40%;
     float:right;
-    padding-left: 30px;
-    padding-top: 20px;
-    padding-right:0px;
-    margin-right:0px;
+    padding-left: 50px;
+    padding-top: 60px;
+    padding-right:50px;
 }
 
 
 h1{
-    padding-left:100px;
-    padding-top: 30px;
-    padding-bottom:30px;
+    padding-left:160px;
+    padding-top: 50px;
+    padding-bottom:50px;
     font-family:'Times New Roman', Times, serif;
+}
+
+footer {
+    padding-top: 320px;
 }
